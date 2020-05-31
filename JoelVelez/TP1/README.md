@@ -1,8 +1,8 @@
-# Como hacer un hola mundo 
-## en PHP .
+#  Hola mundo 
+## en PHP
 
-```
- <?php echo '<p>Hola Mundo</p>
+```php
+ <?php echo '<p>Hola Mundo</p>'; ?>
 ```
 ![chec](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToEBFbNu4cEcxJUSvOtHRsOYCd0u9pA0uFd3IVE6wjQ_iuledS&usqp=CAU)
 ***
@@ -16,7 +16,7 @@
 ## hacemos un push de la rama del repositorio remoto
 ![cc](https://lh3.googleusercontent.com/7GgHORllIHgNKZQoKRmVr_es04I7C_yLNihXAQINy7T5pwrjPI8NZsr81oa70x6IioHKePfNPaJ0C9M1ZuQ81WI4SqMMY-XA0cvptAKN6wPj6fASpMqCo2C8u9MntYGk2goPmFKSq2De_wFNj6MbBUgwEgc3_00980IDx-7hTt70zjvfO4u7cF2Kt9r2r-hXk4YkPqiDQlyxFMHWoLAy8s4lK70mGPrCoZx5_naOWnawFQapj2up9FvO2wGe72PKM7QzF8CPTxUCJc11m8RNcW5l_MLIQTyrQfUZEWG8-y1zrvnZYWvyM0MdrzwKCRSI4ls9Jd4Z3uC6_eZLTJZaT4ddPGqMR46Cw62HQnSvX2UnQ1BGlwWnFIRWHKJoqJWvgx1WwjLa93gTkTalFTUv5wyPhpxDo9QlV2DWbknThm76MfwQaAlx-pVln8Q8kRmLp1YBa48MCBFc_2g7AizG6L10I7j3v_1rCMFkNM7SFWxppWFFNLaeeyHfOvuOG2mIn7mqjqX07lQMUqa5aduS7hrEBnlH1mf46AVBRYTyxVcAUDdM9USJbI5bRCC3X3DQlRkqL9BfUxH-7pt7KNwgykV_nVccbKGyG8CiJhhveMjNBEfA4oNAfLxvLVc09hnCg1T6HACQ3F3QroV4dkXOfvhIsi0kysQdCwhWMacmP6e3XmtBkNbmJzWlyyR48A=w714-h253-no?authuser=0)
 
-### Agg el pull request y asignar un revisor 
+### Agregamos el pull request y asignar un revisor
 ![pl](https://lh3.googleusercontent.com/5nGYleNAL15LhZ47C2nPa_FClvGqPFi7ATZfmH0s2UqsM7mhERkJke-q63iBA1Zbm-0UFqzHDuOIUJjZU7b8VHGlS2oe8zHMMKHlSmd5b3obanuPMSGCH3tDFJcTdB7RPIKtA1AxyXaO36d3xhejHzXMH_Oh64Sg9hijklQZtbqI_flRxwlsHsRse-PtDObHxfjJhGJAhL-q_IkeB-osxrjZQ_ekiAJEca8fB_Q-lNgl66p7JiIrdnZHA2X2Ys3ZrQrTQp6BAPCe1Q4lAr81LXiDQ-JjZy9ynKHYeInGpb1ASfxk_ZM4AoGDVniH-Gp8UKk0BJVP3bDG32FpL3Xxl31EOcy_8X6Bwvip6S4fT2VgwZ9v3Vbf5egAEgq2emh6VzBwZOYpb8k3FaueVrMdISc_9t9dJVYFXSRq8ALlFyQA1nrF97EhyXOMbVDUZUBakp5uB3p6IqpvabfS5YWO8Fuz1NK46q7cA9LXkaTiojBL-GRILMQKmKN_AWMeincXyda5OjzkaD8uX2Fqe35wAHzN4O6xqRnKHI0bnR1otNX9dpj44vXLTgBUHQxfyE5_M8ALwVbnxkT-bmE_PuJWmclRp9wDGNig6-6Oi074TNh4WWzEv1Eou4u5BPKBoHN6bM8JCeONijSDVXilYbNZxdHLQ-xlgjKmnw8sQ6z8GkXGNp0GznthgPNTwJwpPw=w1130-h542-no?authuser=0)
 
 
@@ -26,4 +26,12 @@
 
 
 #### comandos mas utilizados 
-![comn](https://lh3.googleusercontent.com/tE0uLN0eXKrKhTDPWom-wpaquBBNtibHai6z__3n07KtPkU-khm4Lhl6ciO9ZDqJmbJKX1x_7QnEYazFsNRYJlNpOMK36E1W_nS-ltbXMpMVi2FuK46Lr8UkeMIAu3URtqYUei_yUiyjbpUxbzzDnxTKpn0fo0jDM5vss2e7FcOQ9e5T8d6gcsDbniiW8kwjZQTweeTIdxdn0ElKbbMyhCbGawdmrqG-JkWMl0m01o3EyAvVGwKMjd-EUlsmdRrpiObfPV-UbHqG8K6f25_y3J4gZ29Zy_ui92xzJ6GBLi7tAMNGvGSHYsbalON590n48Wq0DMf8WrLhxeMrJ9bqQHuBpyYMxFDRkzIz1-EeVOrpdWgAOpmso7H61Yk2Vp7g-sZO4U2uBEHzZf2Mbx6v4S0JEsItlUIgVjxVD0Q19uIOcSNWpJDCTRA5sZYkxJESKX-jdFtH5zRlMTDv0uOutW3USnKhHTa0cb2pY2b3uMXIpSSGY4Lreq6ILG4GOvHK-ooLdj7qn5DNaO9BZ2pyr9kh9LogEDqsMwVirRj2XXlORWr8yesYwNEb1SfqBPXSVtl2yTHDNhMEnSKWkNMwdl4iZps8tkRQLWSEntHofgUR4hl6Ed2Wpw_94opZz9xlNfE4UiDgt7b_GJuvblcuFMxKk36AA5R6QueNTcW9QQbWAiUDqIQH3OCfwQvL3w=w799-h269-no?authuser=0)
+
+| comando    | descripcion                                                                                                |
+|------------|------------------------------------------------------------------------------------------------------------|
+| git clone  | permite clonar un repositorio remoto                                                                       |
+| git push   | permite empujar los cambios al repositorio remoto                                                          |
+| git pull   | permite traer y hacer merge de los cambios del repositorio remoto                                          |
+| git config | permite modificar la configuracion de Git , si usamos la opcion -g  se modificara la configuracion global  |
+| git merge  | permite comnbinar los cambios de un repositorio local                                                      |
+| git reset  | borra uno o un conjunto de commits                                                                         |
