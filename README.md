@@ -6,11 +6,13 @@
 
 - La estructura de directorios para cada trabajo práctico es la siguiente: `username/TP1` teniendo en cuenta que el número final indica el número del trabajo practico.
 
-- Cada tarea debe ser subida a la rama `tp#-2020-1S-username` de este repositorio donde `username` denota el nombre de cada alumno, `#` indica el numero del trabajo práctico, genere un **pull-request** por cada trabajo que subirá. El titulo del pull-request tiene el siguiente formato: `Username TP1 2020-1S`.
+- Cada tarea debe ser subida a la rama `tp#-2020-1S-username` de este repositorio donde `username` denota el nombre y apellido de cada alumno, unido y con cada palabra en mayuscula, por ejemplo LuisCastro, `#` indica el numero del trabajo práctico, genere un **pull-request** por cada trabajo que subirá. El titulo del pull-request tiene el siguiente formato: `username TP# 2020-1S`.
 
 ## **Indice**
 
 - [Trabajo práctico #1](#Trabajo-practico-1)
+- [Trabajo práctico #2](#Trabajo-practico-2)
+- [Ejemplos](#Ejemplos)
 
 ## **Trabajo practico #1**
 
@@ -22,4 +24,30 @@ Para este trabajo deberá generar un archivo `README.md` el cual tendra tres sec
 
 - La ultima sección mostrara una tabla con los comandos mas usuados de git.
 
-    ![Ejemplo TP1](https://i.imgur.com/NB7q6DX.png)
+## **Trabajo practico #2**
+
+Este trabajo práctico pone a prueba sus destrezas en HTML y CSS, diseñará una página para su CV (Hoja de vida), puede utilizar cualquier plantilla mostrada en la siguiente imagen:
+
+![cvTemplatesPrev](https://i.imgur.com/pD5suHt.png)
+
+Puede elegir otra plantilla de su agrado desde [Resume.io](https://resume.io/templates).
+
+Luego de elegir la plantilla:
+
+- Cree el HTML necesario para cada sección de la misma.
+
+- Añada los estilos correspondientes, agregue un archivo adicional para separar los estilos del HTML.
+
+- Cree un repositorio en su perfil de GitHub, use GitHub Pages para mostrar su página.
+
+- Incluya el link de la página desplegada con anterioridad en algun lugar de su CV.
+
+- Recuerde los pasos descritos en la seccion [lea con cuidado](#Lea-las-intruciones-con-cuidado) al momento de presentar su tarea.
+
+La carpeta TP2 solo debe incluir dos archivos `index.html` y `main.css` ( o como decida llamar a su archivo css )
+
+## **Ejemplos**
+Trabajo Practico | Link
+---|---|
+TP1 | https://i.imgur.com/NB7q6DX.png
+
