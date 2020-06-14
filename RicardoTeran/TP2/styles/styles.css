@@ -1,0 +1,46 @@
+
+
+BODY { 
+    font: 8pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
+    margin: 10 0 10 0px; 
+    text-align: center; 
+    background-color: #ebebeb; 
+ } 
+
+ #contenedor{
+     margin: auto;
+     width: 750px;
+
+ }
+ #lateral{
+
+    width: 200px; 
+    float: left;
+ }
+
+ #lateral ul{ 
+    margin : 0 0 0 0px; 
+    padding: 0 0 0 0px; 
+    list-style: none;
+    background-color: #1C3441;
+    color: #c4c4c4;
+ }
+
+ #lateral img{
+     width: 100px;
+     padding: 50px;
+     text-align: left;
+     background-color: #1C3441;
+ }
+#lateral a{
+    text-decoration: none;
+    color: #c4c4c4;
+}
+ 
+ #cuerpo{
+
+    width: 540px;
+    float: right;
+    text-align: left;
+    background-color: white;
+}
