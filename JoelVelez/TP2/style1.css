@@ -1,0 +1,332 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #545E6C;
+  background: #f5f5f5;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+a {
+  color: #2d7788;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #1a454f;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.rayaizquierda {
+  background: #42A8C0;
+  max-width: 960px;
+  margin: 0 auto;
+  margin-top: 30px;
+  position: relative;
+  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+ } 
+
+.sidebar-rayaizquierda {
+  background: #42A8C0;
+  position: absolute;
+  right: 0;
+  width: 240px;
+  height: 100%;
+  min-height: 800px;
+  color: #fff;
+}
+
+.sidebar-rayaizquierda a {
+  color: #fff;
+}
+
+.sidebar-rayaizquierda .perfil-container {
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center;
+  color: #fff;
+}
+
+.sidebar-rayaizquierda .nombre {
+  font-size: 32px;
+  font-weight: 900;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.sidebar-rayaizquierda .tagline {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.sidebar-rayaizquierda .perfil {
+  margin-bottom: 15px;
+}
+
+.sidebar-rayaizquierda .contact-list .svg-inline--fa {
+  margin-right: 5px;
+  font-size: 18px;
+  vertical-align: middle;
+}
+
+.sidebar-rayaizquierda .contact-list li {
+  margin-bottom: 15px;
+}
+
+.sidebar-rayaizquierda .contact-list li:last-child {
+  margin-bottom: 0;
+}
+
+.sidebar-rayaizquierda.contact-list .email .svg-inline--fa {
+  font-size: 14px;
+}
+
+.sidebar-rayaizquierda .container-block {
+  padding: 30px;
+}
+
+.sidebar-rayaizquierda .container-block-title {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.sidebar-rayaizquierda .degree {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.sidebar-rayaizquierda .educacion-container .item {
+  margin-bottom: 15px;
+}
+
+.sidebar-rayaizquierda .educacion-container .item:last-child {
+  margin-bottom: 0;
+}
+
+.sidebar-rayaizquierda .educacion-container .meta {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-top: 0;
+  font-size: 14px;
+}
+
+.sidebar-rayaizquierda.educacion-container .time {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.sidebar-rayaizquierda.lenguajes-container .lang-desc {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.sidebar-rayaizquierda .lenguajes-list {
+  margin-bottom: 0;
+}
+
+.sidebar-rayaizquierda .lenguajes-list li {
+  margin-bottom: 10px;
+}
+
+.sidebar-rayaizquierda .lenguajes-list li:last-child {
+  margin-bottom: 0;
+}
+
+.sidebar-rayaizquierda .interests-list {
+  margin-bottom: 0;
+}
+
+.sidebar-rayaizquierda .intereses-list li {
+  margin-bottom: 10px;
+}
+
+.sidebar-rayaizquierda .intereses-list li:last-child {
+  margin-bottom: 0;
+}
+
+.main-rayaizquierda {
+  background: #fff;
+  padding: 60px;
+  padding-right: 300px;
+}
+
+.main-rayaizquierda .section-title {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 500;
+  color: #2d7788;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.main-rayaizquierda .section-title .icon-holder {
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+  display: inline-block;
+  color: #fff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background: #2d7788;
+  text-align: center;
+  font-size: 16px;
+  position: relative;
+  top: -8px;
+}
+
+.main-rayaizquierda .section-title .icon-holder .svg-inline--fa {
+  font-size: 14px;
+  margin-top: 6px;
+}
+
+.main-rayaizquierda .section {
+  margin-bottom: 60px;
+}
+
+.main-rayaizquierda .experiences-section .item {
+  margin-bottom: 30px;
+}
+
+.main-rayaizquierda .upper-row {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 2px;
+}
+
+.main-rayaizquierda .job-title {
+  color: #3F4650;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.main-rayaizquierda .time {
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: #97AAC3;
+}
+
+.main-rayaizquierda .company {
+  margin-bottom: 10px;
+  color: #97AAC3;
+}
+
+.main-rayaizquierda .project-title {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.main-rayaizquierda .projects-section .intro {
+  margin-bottom: 30px;
+}
+
+.main-rayaizquierda .projects-section .item {
+  margin-bottom: 15px;
+}
+
+.skillset .item {
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
+.skillset .level-title {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.skillset .level-bar {
+  height: 12px;
+  background: #f5f5f5;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+
+.skillset .theme-progress-bar {
+  background: #68bacd;
+}
+
+.footer {
+  padding: 30px;
+  padding-top: 60px;
+}
+
+.footer .copyright {
+  line-height: 1.6;
+  color: #545E6C;
+  font-size: 13px;
+}
+
+.footer .fa-heart {
+  color: #fb866a;
+}
+
+@media (max-width: 767.98px) {
+  .sidebar-rayaizquierda {
+    position: static;
+    width: inherit;
+  }
+  .main-rayaizquierda {
+    padding: 30px;
+  }
+  .main-rayaizquierda .time {
+    position: static;
+    display: block;
+    margin-top: 5px;
+  }
+  .main-rayaizquierda .upper-row {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 992px) {
+  .skillset .level-title {
+    display: inline-block;
+    float: left;
+    width: 30%;
+    margin-bottom: 0;
+  }
+}
